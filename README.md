@@ -1,7 +1,7 @@
 # xml-and-its-basic-techniques
 Book my friends and I wrote in National University of Singapore - School of Computing
 
-Available [HERE](http://quangphuc789.com/xml-and-its-basic-techniques/xml.pdf)
+Available [HERE](https://quangphuc789.github.io/xml-and-its-basic-techniques/xml.pdf)
 
 **Chapter A XML**
 
